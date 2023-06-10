@@ -2,7 +2,6 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "Learning React in cool way",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +14,13 @@
   "bugs": {
     "url": "https://github.com/RAJPATEL-DROID/Namste-React/issues"
   },
-  "homepage": "https://github.com/RAJPATEL-DROID/Namste-React#readme"
+  "homepage": "https://github.com/RAJPATEL-DROID/Namste-React#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  }
 }
